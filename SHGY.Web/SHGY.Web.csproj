@@ -264,6 +264,7 @@
     <Content Include="assets\fonts\weathericons-regular-webfont.eot" />
     <Content Include="assets\fonts\weathericons-regular-webfont.ttf" />
     <Content Include="assets\fonts\weathericons-regular-webfont.woff" />
+    <Content Include="log4net.config" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Scripts\ChartThemeColors.js" />
     <Content Include="Scripts\jquery-2.1.1.js" />
